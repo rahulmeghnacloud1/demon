@@ -9,7 +9,7 @@ from telebot import types
 import time
 from datetime import datetime, timedelta
 import psutil
-import sqlite3DEMON_HOSTING_GROUP
+import sqlite3
 import json
 import logging
 import signal
